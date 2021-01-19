@@ -5,7 +5,7 @@
 
 
 
-
+***Dillon Ridge Computing has been renamed to Row64! This project is now [here](https://github.com/Row64/GPU-Script).***
 
 
 
